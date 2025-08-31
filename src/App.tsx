@@ -10,10 +10,12 @@ function App() {
   return (
     <div className="min-h-screen bg-gray-50">
       <Header />
-      <Hero />
-      <Features />
-      <Services />
-      <CTA />
+      <main>
+        <Hero />
+        <Features />
+        <Services />
+        <CTA />
+      </main>
       <Footer />
     </div>
   );
