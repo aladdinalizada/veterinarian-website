@@ -25,7 +25,7 @@ const Header = () => {
     <header className="bg-white shadow-lg sticky top-0 z-10">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center py-4">
-          <a href="#" className="flex items-center gap-3">
+          <a href="/" className="flex items-center gap-3">
             <div className="bg-orange-500 p-4 rounded-full">
               <Heart color="white" />
             </div>
